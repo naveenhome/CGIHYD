@@ -1,4 +1,4 @@
-package main.java;
+package cgi.hyd;
 
 public class Prescription {
 	

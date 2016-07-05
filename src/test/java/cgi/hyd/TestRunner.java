@@ -1,4 +1,4 @@
-package test.java;
+package cgi.hyd;
 
 import org.junit.runner.RunWith;
 

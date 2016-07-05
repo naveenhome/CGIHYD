@@ -1,4 +1,4 @@
-package test.java;
+package cgi.hyd;
 
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;

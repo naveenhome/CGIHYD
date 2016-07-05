@@ -1,7 +1,5 @@
-package test.java;
+package cgi.hyd;
 
-import main.java.Prescription;
-import main.java.PrescriptionBLL;
 import junit.framework.TestCase;
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;

@@ -1,6 +1,5 @@
-package test.java;
+package cgi.hyd;
 
-import main.java.Largest;
 import junit.framework.TestCase;
 
 public class TestLargest extends TestCase{

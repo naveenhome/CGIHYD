@@ -1,4 +1,5 @@
-package main.java;
+package cgi.hyd;
+
 
 public class PrescriptionBLL {
 

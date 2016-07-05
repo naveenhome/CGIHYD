@@ -1,6 +1,5 @@
-package test.java;
+package cgi.hyd;
 
-import main.java.RPNCalc;
 import junit.framework.TestCase;
 
 public class TestRPN extends TestCase{
